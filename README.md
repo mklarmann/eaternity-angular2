@@ -19,7 +19,7 @@ __or__ locally (make sure you have the newest version of [Node.js](https://nodej
 ```bash
 npm install -g angular-cli
 npm install
-ng serv
+ng serve
 ```
 
 🎩🐇🔮 should be happening in both cases on http://localhost:4200
